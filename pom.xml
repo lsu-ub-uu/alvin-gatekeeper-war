@@ -37,6 +37,7 @@
 		<basicstorage.version>3.4.0</basicstorage.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<searchstorage.version>3.3.0</searchstorage.version>
+		<alvinmixedstorage.version>3.1.0</alvinmixedstorage.version>
 	</properties>
 
 	<scm>
@@ -78,17 +79,17 @@
 			<version>${userpicker.version}</version>
 			<scope>runtime</scope>
 		</dependency>
-		<dependency>
-			<groupId>se.uu.ub.cora</groupId>
-			<artifactId>basicstorage</artifactId>
-			<version>${basicstorage.version}</version>
-			<scope>runtime</scope>
-		</dependency>
 
 		<dependency>
 			<groupId>se.uu.ub.cora</groupId>
 			<artifactId>searchstorage</artifactId>
 			<version>${searchstorage.version}</version>
+			<scope>runtime</scope>
+		</dependency>
+		<dependency>
+			<groupId>se.uu.ub.cora</groupId>
+			<artifactId>alvinmixedstorage</artifactId>
+			<version>${alvinmixedstorage.version}</version>
 			<scope>runtime</scope>
 		</dependency>
 
