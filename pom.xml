@@ -17,7 +17,7 @@
 	</parent>
 
 	<artifactId>alvin-gatekeeper-war</artifactId>
-	<version>1.5-SNAPSHOT</version>
+	<version>1.6-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>Alvin Gatekeeper</name>
@@ -27,14 +27,14 @@
 
 	<properties>
 		<gatekeeper.version>3.7.0</gatekeeper.version>
-		<gatekeeperserver.version>4.4.0</gatekeeperserver.version>
+		<gatekeeperserver.version>4.5.0</gatekeeperserver.version>
 		<coradata.version>5.1.0</coradata.version>
 		<basicdata.version>3.2.0</basicdata.version>
 		<storage.version>4.2.0</storage.version>
 		<basicstorage.version>5.1.0</basicstorage.version>
 		<json.version>2.5.0</json.version>
 		<log4j.version>2.3.0</log4j.version>
-		<userpicker.version>3.4.0</userpicker.version>
+		<userpicker.version>3.5.0</userpicker.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<searchstorage.version>3.7.0</searchstorage.version>
 		<alvinmixedstorage.version>3.10.0</alvinmixedstorage.version>
