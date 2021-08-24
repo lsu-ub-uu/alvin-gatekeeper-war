@@ -35,7 +35,7 @@
 		<json.version>2.5.0</json.version>
 		<log4j.version>2.3.0</log4j.version>
 		<userpicker.version>3.5.0</userpicker.version>
-		<servlet-api.version>4.0.1</servlet-api.version>
+		<servlet-api.version>5.0.0</servlet-api.version>
 		<searchstorage.version>3.7.0</searchstorage.version>
 		<alvinmixedstorage.version>3.10.0</alvinmixedstorage.version>
 	</properties>
@@ -118,8 +118,8 @@
 		</dependency>
 
 		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>javax.servlet-api</artifactId>
+			<groupId>jakarta.servlet</groupId>
+			<artifactId>jakarta.servlet-api</artifactId>
 			<version>${servlet-api.version}</version>
 			<scope>provided</scope>
 		</dependency>
