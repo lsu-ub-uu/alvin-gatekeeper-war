@@ -17,7 +17,7 @@
 	</parent>
 
 	<artifactId>alvin-gatekeeper-war</artifactId>
-	<version>2.3.0-SNAPSHOT</version>
+	<version>2.3.0</version>
 	<packaging>war</packaging>
 
 	<name>Alvin Gatekeeper</name>
@@ -44,7 +44,7 @@
 		<connection>scm:git:https://github.com/lsu-ub-uu/alvin-gatekeeper-war.git</connection>
 		<developerConnection>scm:git:https://github.com/lsu-ub-uu/alvin-gatekeeper-war.git</developerConnection>
 		<url>https://github.com/lsu-ub-uu/alvin-gatekeeper-war.git</url>
-		<tag>release/2.3</tag>
+		<tag>alvin-gatekeeper-war-2.3.0</tag>
 	</scm>
 
 	<dependencies>
