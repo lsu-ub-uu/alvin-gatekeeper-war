@@ -30,10 +30,10 @@
 		<gatekeeper.version>5.0-SNAPSHOT</gatekeeper.version>
 		<gatekeeperserver.version>6.0-SNAPSHOT</gatekeeperserver.version>
 		<json.version>3.10.0</json.version>
-		<spider.version>8.9.0</spider.version>
-		<storage.version>9.1.0</storage.version>
+		<spider.version>9.0.0</spider.version>
+		<storage.version>9.3.0</storage.version>
 		<log4j.version>2.16.0</log4j.version>
-		<basicdata.version>5.7.0</basicdata.version>
+		<basicdata.version>6.0.0</basicdata.version>
 		<userpicker.version>4.8-SNAPSHOT</userpicker.version>
 		<userstorage.version>1.15-SNAPSHOT</userstorage.version>
 		<basicstorage.version>7.13.0</basicstorage.version>
